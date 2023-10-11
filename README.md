@@ -58,4 +58,9 @@ ___________________________
  * Keep Colab Open with pytesseract | https://github.com/RsGoksel/Keep_Colab_Open
 
 
+# Blogs 
+___________________________
+
+## Wanna understand Particle Optimisation? 
+ * https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89
   
