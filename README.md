@@ -66,6 +66,6 @@ ___________________________
 # Blogs 
 ___________________________
 
-## Wanna understand Particle Optimisation? 
+## About Particle Optimisation
  * https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89
   
