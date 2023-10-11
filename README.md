@@ -1,5 +1,5 @@
 
-![Gk](https://github.com/RsGoksel/RsGoksel/assets/80707238/2fce732d-d803-4ad8-90a3-6c2bbff4548c)
+![Gk](https://github.com/RsGoksel/RsGoksel/assets/80707238/cce0d824-79d0-407e-8bfc-3bff8d04b205)
 
 <h2> Hello! | 1001000 1100101 1101100 1101100 1101111 </h2>
 
