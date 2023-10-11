@@ -57,7 +57,7 @@ ___________________________
  * Creating an Agent Playing Pong Game with Genetic algorithms | https://github.com/RsGoksel/Pong-Game_Genetic-Algorithm
    
 
-## Processing Tools
+## Tools
  * Data structures in C++ | https://github.com/RsGoksel/Data-Structures-Cpp
  * Video media frame Splitting w/ Python  | https://github.com/RsGoksel/VideoSplit-And-Get-Frames-From-It
  * Keep Colab Open with pytesseract | https://github.com/RsGoksel/Keep_Colab_Open
