@@ -54,8 +54,9 @@ ___________________________
 ## Evolutionary Algorithms
  * Particle Swarm Optimisation | https://github.com/RsGoksel/Partical-Swarm-Optimisation-Examples
  * Creating an Agent Playing Snake Game with Genetic Algorithms | https://github.com/RsGoksel/SnakeGame-with-GeneticAlgorithm
- * Creating an Agent Playing Pong Game with Genetic Algorithms | https://github.com/RsGoksel/Pong-Game_Genetic-Algorithm
  * Flappy Bird Game Solution with Genetic Algorithms | https://github.com/RsGoksel/Genetic-Algorithms-Solutions/tree/main/Game_Solutions/FlappyBird_Genetic
+ * Creating an Agent Playing Pong Game with Genetic Algorithms | https://github.com/RsGoksel/Pong-Game_Genetic-Algorithm
+ 
 
 ## Tools
  * Data structures in C++ | https://github.com/RsGoksel/Data-Structures-Cpp
