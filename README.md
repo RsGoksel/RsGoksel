@@ -47,6 +47,7 @@ ___________________________
 
 ## Reinforcement Learning
  * Creating Pong Game Agent with PPO | https://github.com/RsGoksel/PPO_Optimization_PongGame
+ * Utilizing Actor-Critic and PPO Agents to Learn the Classic Snake Game | https://github.com/RsGoksel/Snake-Game_PPO-Solution
    
 ## GAN networks
  * ESRGAN for getting ultra high resolution images from low-quality images | https://github.com/RsGoksel/G_ESRGAN
