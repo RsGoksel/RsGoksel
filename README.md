@@ -36,16 +36,17 @@
 # Projects 
 ___________________________
 
-## Computer Vision 👁️ 🕵️
+## Computer Vision 
  * [Military Vehicle - Object Detection](https://github.com/RsGoksel/Military-Vehicles-Detection/tree/master)
  * [ONNX Model Object Detection with C++](https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV)
  * [Breast Tissue Cropper Tools For both Object Detection, Classification](https://github.com/RsGoksel/Breast-Tissue-Cropper-Tools)
 
 ## Reinforcement Learning 🤖
+ * [Project Mechopter - Quadcopter Learns to Fly](https://github.com/RsGoksel/Mechopter)
  * [Creating Pong Game Agent with PPO](https://github.com/RsGoksel/PPO_Optimization_PongGame)
  * [Utilizing Actor-Critic and PPO Agents to Learn the Classic Snake Game](https://github.com/RsGoksel/Snake-Game_PPO-Solution)
    
-## GAN networks ⚗️
+## GAN networks 
  * [ESRGAN for getting ultra high resolution images from low-quality images](https://github.com/RsGoksel/G_ESRGAN)
    
 ## Evolutionary Algorithms 🐜 🧬
@@ -61,7 +62,7 @@ ___________________________
  * [Keep Colab Open with pytesseract](https://github.com/RsGoksel/Keep_Colab_Open)
 ____________________________________________________________________________________________________________
 
-# Blogs 👓
+# Blogs 
 ___________________________
 
  * [About Particle Optimisation](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89)
