@@ -5,7 +5,9 @@
 
 <a href="https://www.linkedin.com/in/kadir-goksel-3132b9195/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://medium.com/@goksselgunduz"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://github.com/RsGoksel/RsGoksel/files/13030459/RsGoksel_CV.pdf"><img src="https://img.shields.io/badge/Download-CV-blue" height=25></a> 
+<a href="https://github.com/RsGoksel/RsGoksel/files/13161308/RsGoksel_CV.pdf"><img src="https://img.shields.io/badge/Download-CV-blue" height=25></a> 
+
+
 
 <p>Welcome to my page! </br> I'm Göksel, Artifical Intelligence enthusiast & Machine Learning Developer Computer Engineer 🤖🦾</p>
 
