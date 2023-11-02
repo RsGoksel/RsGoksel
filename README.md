@@ -11,7 +11,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;Welcome to my page!
 <p> </br> I'm Göksel, Artifical Intelligence enthusiast & Machine Learning Developer Computer Engineer 🤖🦾</p>
-________________________________________________________________________________________________________________
+________________________________________________________________________________
 
 <h2>Things I code with</h3>
 <p>
