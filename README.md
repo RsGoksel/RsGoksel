@@ -9,16 +9,15 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Orange?style=for-the-badge&logo=huggingface&logoColor=white&color=ffA500)](https://huggingface.co/RsGoksel)
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;Welcome to my page!
-<p> </br> I'm Göksel, Artifical Intelligence enthusiast & Machine Learning Developer Computer Engineer 🤖🦾</p>
+
+<p> I'm Göksel, Artifical Intelligence enthusiast & Machine Learning Developer Computer Engineer 🤖🦾</p>
 ________________________________________________________________________________
 
-<h2>Things I code with</h3>
-<p>
+## <picture><img src = "https://github.com/RsGoksel/RsGoksel/blob/main/Assets/H.gif" width = 50px></picture> **Things I code with**
+
   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -26,7 +25,7 @@ ________________________________________________________________________________
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=flat&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat&logo=numpy&logoColor=white)
