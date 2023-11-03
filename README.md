@@ -75,8 +75,10 @@ ___________________________
  * [About Particle Optimisation](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89)
  * [Signal Processing](https://medium.com/@goksselgunduz/fundamental-terms-of-signal-processing-2826a1b5543d)
 
-  <!--- snake -->
+
 <div align="center">
-  <img  src="https://github.com/RsGoksel/RsGoksel/blob/main/Assets/snake.svg"
-       alt="snake" /></a>
+  <a href="">
+    <img src="https://github.com/RsGoksel/RsGoksel/blob/main/Assets/snake.svg" alt="snake">
+  </a>
 </div>
+
