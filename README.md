@@ -11,7 +11,7 @@
 
 
 <p> I'm Göksel, Artifical Intelligence enthusiast & Machine Learning Developer Computer Engineer 🤖🦾</p>
-________________________________________________________________________________
+
 
 ## <picture><img src = "https://github.com/RsGoksel/RsGoksel/blob/main/Assets/H.gif" width = 50px></picture> **Things I code with**
 
