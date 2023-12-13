@@ -16,37 +16,37 @@
 # Projects 
 
 ## Computer Vision 
- * [Military Vehicle - Object Detection](https://github.com/RsGoksel/Military-Vehicles-Detection/tree/master)
- * [ONNX Model Object Detection with C++](https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV)
- * [Breast Tissue Cropper Tools For both Object Detection, Classification](https://github.com/RsGoksel/Breast-Tissue-Cropper-Tools)
+[Military Vehicle - Object Detection](https://github.com/RsGoksel/Military-Vehicles-Detection/tree/master) <p>
+[ONNX Model Object Detection with C++](https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV) <p>
+[Breast Tissue Cropper Tools For both Object Detection, Classification](https://github.com/RsGoksel/Breast-Tissue-Cropper-Tools) <p>
 
 ## Reinforcement Learning 
- * [Project Mechopter - Quadcopter Learns to Fly](https://github.com/RsGoksel/Mechopter)
- * [Creating Pong Game Agent with PPO](https://github.com/RsGoksel/PPO_Optimization_PongGame)
- * [Utilizing Actor-Critic and PPO Agents to Learn the Classic Snake Game](https://github.com/RsGoksel/Snake-Game_PPO-Solution)
+[Project Mechopter - Quadcopter Learns to Fly](https://github.com/RsGoksel/Mechopter) <p>
+[Creating Pong Game Agent with PPO](https://github.com/RsGoksel/PPO_Optimization_PongGame) <p>
+[Utilizing Actor-Critic and PPO Agents to Learn the Classic Snake Game](https://github.com/RsGoksel/Snake-Game_PPO-Solution) <p>
    
 ## GAN networks 
- * [ESRGAN for getting ultra high resolution images from low-quality images](https://github.com/RsGoksel/G_ESRGAN)
+[ESRGAN for getting ultra high resolution images from low-quality images](https://github.com/RsGoksel/G_ESRGAN) <p>
    
 ## Evolutionary Algorithms 
- * [Particle Swarm Optimisation](https://github.com/RsGoksel/Partical-Swarm-Optimisation-Examples)
- * [Creating an Agent Playing Snake Game with Genetic Algorithms](https://github.com/RsGoksel/Genetic-Algorithm-Solutions/tree/main/Game_Solutions/SnakeGame_Genetic)
- * [Flappy Bird Game Solution with Genetic Algorithms](https://github.com/RsGoksel/Genetic-Algorithms-Solutions/tree/main/Game_Solutions/FlappyBird_Genetic)
- * [Creating an Agent Playing Pong Game with Genetic Algorithms](https://github.com/RsGoksel/Genetic-Algorithm-Solutions/tree/main/Game_Solutions/PongGame_Genetic)
+[Particle Swarm Optimisation](https://github.com/RsGoksel/Partical-Swarm-Optimisation-Examples) <p>
+[Creating an Agent Playing Snake Game with Genetic Algorithms](https://github.com/RsGoksel/Genetic-Algorithm-Solutions/tree/main/Game_Solutions/SnakeGame_Genetic) <p>
+[Flappy Bird Game Solution with Genetic Algorithms](https://github.com/RsGoksel/Genetic-Algorithms-Solutions/tree/main/Game_Solutions/FlappyBird_Genetic) <p>
+[Creating an Agent Playing Pong Game with Genetic Algorithms](https://github.com/RsGoksel/Genetic-Algorithm-Solutions/tree/main/Game_Solutions/PongGame_Genetic) <p>
  
 
 ## Tools 
- * [Data structures in C++](https://github.com/RsGoksel/Data-Structures-Cpp)
- * [Video media frame Splitting w/ Python](https://github.com/RsGoksel/VideoSplit-And-Get-Frames-From-It)
- * [Keep Colab Open with pytesseract](https://github.com/RsGoksel/Keep_Colab_Open)
+[Data structures in C++](https://github.com/RsGoksel/Data-Structures-Cpp) <p>
+[Video media frame Splitting w/ Python](https://github.com/RsGoksel/VideoSplit-And-Get-Frames-From-It) <p>
+[Keep Colab Open with pytesseract](https://github.com/RsGoksel/Keep_Colab_Open) <p>
 ____________________________________________________________________________________________________________
 
 # Blogs 
 ___________________________
 
- * [Spike Neuron Networks](https://medium.com/p/b073370ba1aa)
- * [About Particle Optimisation](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89)
- * [Signal Processing](https://medium.com/@goksselgunduz/fundamental-terms-of-signal-processing-2826a1b5543d)
+[Spike Neuron Networks](https://medium.com/p/b073370ba1aa) <p>
+[About Particle Optimisation](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89) <p>
+[Signal Processing](https://medium.com/@goksselgunduz/fundamental-terms-of-signal-processing-2826a1b5543d) <p>
   
 
 <div align="center">
