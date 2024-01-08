@@ -5,9 +5,8 @@
 ## <picture><img src = "https://github.com/RsGoksel/RsGoksel/blob/main/Assets/H.gif" width = 50px></picture> 
 <a href="https://www.linkedin.com/in/kadir-goksel-3132b9195/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://medium.com/@goksselgunduz"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://github.com/RsGoksel/RsGoksel/files/13623898/__RsMech.pdf"><img src="https://img.shields.io/badge/Download-Resume\CV-blue" height=25></a> 
+<a href="https://github.com/RsGoksel/RsGoksel/files/13858988/__Resume_KGGpdf.pdf"><img src="https://img.shields.io/badge/Download-Resume\CV-blue" height=25></a> 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Orange?style=for-the-badge&logo=huggingface&logoColor=white&color=ffA500)](https://huggingface.co/RsGoksel)
-
 
 
 </p>
