@@ -11,6 +11,9 @@
 <br/>
 
 <div align="center">
+  <a href="https://gokselgunduz.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/kadir-goksel-3132b9195/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -29,23 +32,6 @@
 AI/ML Engineer focused on **computer vision**, **reinforcement learning**, and **evolutionary algorithms**. I build robust ML systems and explore the intersection of classical optimization with modern deep learning — from edge inference to multi-agent control.
 
 > *Research interests: Neural Architecture Search · Distributed Training · Edge AI Optimization*
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
 
 ---
 
@@ -127,26 +113,13 @@ AI/ML Engineer focused on **computer vision**, **reinforcement learning**, and *
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RsGoksel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsGoksel&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RsGoksel&theme=github-dark-blue&hide_border=true"/>
-</div>
-
----
-
 ## Technical Writing
 
-| | Article |
-|---|---|
-| 🧠 | [**Spike Neural Networks**](https://medium.com/p/b073370ba1aa) — Neuromorphic computing, temporal coding, hardware acceleration |
-| 🔵 | [**Particle Swarm Optimization**](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89) — Theory, convergence proofs, multi-objective cases |
-| 📡 | [**Signal Processing for ML**](https://medium.com/@goksselgunduz/fundamental-terms-of-signal-processing-2826a1b5543d) — Classical DSP concepts bridged to deep learning |
+| Article |
+|---|
+| [**Spike Neural Networks**](https://medium.com/p/b073370ba1aa) — Neuromorphic computing, temporal coding, hardware acceleration |
+| [**Particle Swarm Optimization**](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89) — Theory, convergence proofs, multi-objective cases |
+| [**Signal Processing for ML**](https://medium.com/@goksselgunduz/fundamental-terms-of-signal-processing-2826a1b5543d) — Classical DSP concepts bridged to deep learning |
 
 ---
 
