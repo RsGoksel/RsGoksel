@@ -1,93 +1,159 @@
-# Kadir Göksel GUNDUZ
-
 <div align="center">
-  <img src="https://github.com/RsGoksel/RsGoksel/assets/80707238/cce0d824-79d0-407e-8bfc-3bff8d04b205" alt="Profile Banner" width="800">
+  <img src="https://github.com/RsGoksel/RsGoksel/assets/80707238/cce0d824-79d0-407e-8bfc-3bff8d04b205" alt="Profile Banner" width="100%">
 </div>
 
-## About Me
-
-AI/ML Engineer specializing in computer vision, reinforcement learning, and evolutionary algorithms. I focus on developing robust machine learning solutions and contributing to the open-source community through practical implementations and technical research.
-
-**Research Interests**: Neural Architecture Search, Distributed Training Systems, Edge AI Optimization
+<br/>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-goksel-3132b9195/)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@goksselgunduz)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffA500?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/RsGoksel)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Computer+Vision+%7C+Reinforcement+Learning;Evolutionary+Algorithms+%7C+Edge+AI" alt="Typing SVG" />
 </div>
 
----
-
-## Featured Projects
-
-### Computer Vision Systems
-- **[Military Vehicle Object Detection](https://github.com/RsGoksel/Military-Vehicles-Detection/tree/master)** - Production-ready object detection pipeline with custom dataset curation and model optimization
-- **[ONNX Model Object Detection with C++](https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV)** - Cross-platform C++ inference engine achieving 60+ FPS on edge devices
-- **[Breast Tissue Cropper Tools](https://github.com/RsGoksel/Breast-Tissue-Cropper-Tools)** - Medical imaging pipeline with automated quality assessment and DICOM compatibility
-
-### Reinforcement Learning Research
-- **[Project Mechopter](https://github.com/RsGoksel/Mechopter)** - Multi-agent quadcopter control system with distributed training architecture
-- **[PPO Pong Agent](https://github.com/RsGoksel/PPO_Optimization_PongGame)** - Advanced policy optimization with custom reward shaping and hyperparameter analysis
-- **[Snake Game RL Solution](https://github.com/RsGoksel/Snake-Game_PPO-Solution)** - Comparative study of Actor-Critic vs PPO with performance benchmarking
-
-### Generative Models
-- **[ESRGAN Super Resolution](https://github.com/RsGoksel/G_ESRGAN)** - Enhanced GAN architecture with perceptual loss optimization for 4x upscaling
-
-### Optimization Algorithms
-- **[Particle Swarm Optimization](https://github.com/RsGoksel/Partical-Swarm-Optimisation-Examples)** - Comprehensive PSO framework with adaptive parameters and convergence analysis
-- **[Genetic Algorithm Game Solutions](https://github.com/RsGoksel/Genetic-Algorithm-Solutions)** - Evolutionary strategies applied to game AI with population dynamics visualization
-
-### Development Infrastructure
-- **[C++ Data Structures](https://github.com/RsGoksel/Data-Structures-Cpp)** - High-performance implementations with memory profiling and complexity analysis
-- **[Video Processing Pipeline](https://github.com/RsGoksel/VideoSplit-And-Get-Frames-From-It)** - Scalable video analysis toolkit with batch processing capabilities
-- **[Colab Session Manager](https://github.com/RsGoksel/Keep_Colab_Open)** - Automated resource management for distributed training workflows
-
----
-
-## Technical Publications
-
-Selected technical articles exploring advanced AI concepts and implementations:
-
-**[Spike Neural Networks: Neuromorphic Computing Fundamentals](https://medium.com/p/b073370ba1aa)**  
-Comprehensive analysis of spiking neural networks, temporal coding, and hardware acceleration strategies for neuromorphic systems.
-
-**[Particle Swarm Optimization: Theory and Applications](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89)**  
-Mathematical foundations of PSO with convergence proofs and multi-objective optimization case studies.
-
-**[Signal Processing Fundamentals for Machine Learning](https://medium.com/@goksselgunduz/fundamental-terms-of-signal-processing-2826a1b5543d)**  
-Bridge between classical signal processing and modern deep learning architectures.
-
----
-
-## Technical Expertise
-
-**Core Competencies**
-- Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Generative Models
-- Optimization: Evolutionary Algorithms, Hyperparameter Tuning, Neural Architecture Search
-- Systems: Distributed Training, Model Deployment, Edge Computing
-
-**Technology Stack**
-- **Languages**: Python, C++, CUDA, JavaScript
-- **Frameworks**: TensorFlow, PyTorch, JAX, OpenCV, ONNX Runtime
-- **Infrastructure**: Docker, Kubernetes, MLflow, Weights & Biases
-- **Hardware**: NVIDIA GPUs, Intel Neural Compute Stick, Jetson platforms
-
-**Current Focus Areas**
-- Efficient neural network architectures for resource-constrained environments
-- Multi-agent reinforcement learning systems
-- Automated machine learning pipeline development
-
----
+<br/>
 
 <div align="center">
-  <img src="https://github.com/RsGoksel/RsGoksel/blob/main/Assets/snake.svg" alt="GitHub Contribution Snake">
+  <a href="https://www.linkedin.com/in/kadir-goksel-3132b9195/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@goksselgunduz">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/RsGoksel">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
 </div>
 
 ---
 
+## About
+
+AI/ML Engineer focused on **computer vision**, **reinforcement learning**, and **evolutionary algorithms**. I build robust ML systems and explore the intersection of classical optimization with modern deep learning — from edge inference to multi-agent control.
+
+> *Research interests: Neural Architecture Search · Distributed Training · Edge AI Optimization*
+
+---
+
+## Tech Stack
+
 <div align="center">
-  <strong>Open to collaboration on cutting-edge AI research and industrial applications</strong>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## Projects
+
+### Computer Vision
+
+<table>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV">Cpp-Object-Detection-Yolov5-OpenCV</a></b></td>
+    <td>Real-time YOLOv5 inference engine in C++ via ONNX Runtime — 60+ FPS on edge devices</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/G_ESRGAN">G_ESRGAN</a></b></td>
+    <td>Enhanced ESRGAN for 4× image & video super resolution with perceptual loss tuning</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Military-Vehicles-Detection">Military-Vehicles-Detection</a></b></td>
+    <td>YOLOv5 fine-tuned on a custom military vehicle dataset</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Breast-Tissue-Cropper-Tools">Breast-Tissue-Cropper-Tools</a></b></td>
+    <td>Medical imaging pipeline for automated mammogram tissue segmentation</td>
+  </tr>
+</table>
+
+---
+
+### Reinforcement Learning
+
+> Full collection → **[RsGoksel/Reinforcement-Learning](https://github.com/RsGoksel/Reinforcement-Learning)**
+
+<table>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Reinforcement-Learning/tree/main/Mechopter">Mechopter</a></b></td>
+    <td>PyGame-based quadcopter simulator with PPO-trained flight controller</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Reinforcement-Learning/tree/main/Reinforcement-Learning-PongGame">Reinforcement-Learning-PongGame</a></b></td>
+    <td>PPO agent trained to play Pong from raw frames</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Reinforcement-Learning/tree/main/Snake-Game_PPO-Solution">Snake-Game_PPO-Solution</a></b></td>
+    <td>OpenAI Gym Snake environment solved with PPO — training curves included</td>
+  </tr>
+</table>
+
+---
+
+### Evolutionary & Classical Optimization
+
+> Full collection → **[RsGoksel/Genetic-Algorithms](https://github.com/RsGoksel/Genetic-Algorithms)**
+
+<table>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Genetic-Algorithms/tree/main/SnakeGame-with-GeneticAlgorithm">SnakeGame-with-GeneticAlgorithm</a></b></td>
+    <td>Neural network controller for Snake evolved entirely via genetic algorithm</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Partical-Swarm-Optimisation-Examples">Partical-Swarm-Optimisation-Examples</a></b></td>
+    <td>PSO framework with adaptive parameters and convergence analysis</td>
+  </tr>
+</table>
+
+---
+
+### Infrastructure & Tools
+
+<table>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/Data-Structures-Cpp">Data-Structures-Cpp</a></b></td>
+    <td>Foundational data structures in C++ with complexity analysis and memory profiling</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RsGoksel/HeisenMech_TDD_2024">HeisenMech_TDD_2024</a></b></td>
+    <td>Hackathon project — #Acıkhack2024TDDİ</td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RsGoksel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsGoksel&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RsGoksel&theme=github-dark-blue&hide_border=true"/>
+</div>
+
+---
+
+## Technical Writing
+
+| | Article |
+|---|---|
+| 🧠 | [**Spike Neural Networks**](https://medium.com/p/b073370ba1aa) — Neuromorphic computing, temporal coding, hardware acceleration |
+| 🔵 | [**Particle Swarm Optimization**](https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89) — Theory, convergence proofs, multi-objective cases |
+| 📡 | [**Signal Processing for ML**](https://medium.com/@goksselgunduz/fundamental-terms-of-signal-processing-2826a1b5543d) — Classical DSP concepts bridged to deep learning |
+
+---
+
+<div align="center">
+  <img src="https://github.com/RsGoksel/RsGoksel/blob/main/Assets/snake.svg" alt="Contribution Snake"/>
+</div>
+
+<div align="center">
+  <sub>Open to collaboration on AI research and industrial applications</sub>
 </div>
