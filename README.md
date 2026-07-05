@@ -12,23 +12,19 @@
 
 <div align="center">
   <a href="https://gokselgunduz.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0B1020?style=for-the-badge&logo=googlechrome&logoColor=00C2FF"/>
-  </a>
-  &nbsp;
+    <img height="30" src="https://img.shields.io/badge/Website-0B1020?style=flat&logo=googlechrome&logoColor=58A6FF&labelColor=0B1020"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kadir-goksel-3132b9195/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0B1020?style=flat&logo=linkedin&logoColor=58A6FF&labelColor=0B1020"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Kadir-Gunduz-3" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-  </a>
-  &nbsp;
+    <img height="30" src="https://img.shields.io/badge/ResearchGate-0B1020?style=flat&logo=researchgate&logoColor=58A6FF&labelColor=0B1020"/>
+  </a>&nbsp;&nbsp;
   <a href="https://medium.com/@goksselgunduz" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  &nbsp;
+    <img height="30" src="https://img.shields.io/badge/Medium-0B1020?style=flat&logo=medium&logoColor=58A6FF&labelColor=0B1020"/>
+  </a>&nbsp;&nbsp;
   <a href="https://huggingface.co/RsGoksel" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    <img height="30" src="https://img.shields.io/badge/Hugging%20Face-0B1020?style=flat&logo=huggingface&logoColor=58A6FF&labelColor=0B1020"/>
   </a>
 </div>
 
