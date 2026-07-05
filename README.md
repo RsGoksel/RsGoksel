@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RsGoksel/RsGoksel/assets/80707238/cce0d824-79d0-407e-8bfc-3bff8d04b205" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/RsGoksel/RsGoksel/main/Assets/banner.png" alt="Göksel Gündüz — AI / ML Engineer" width="100%">
 </div>
 
 <br/>
@@ -37,29 +37,44 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
 
 ## Contents
 
-<div align="center">
-
-[Large Language Models](#large-language-models) &nbsp;·&nbsp;
-[RAG & Agentic Systems](#rag--agentic-systems) &nbsp;·&nbsp;
-[Quantum Machine Learning](#quantum-machine-learning) &nbsp;·&nbsp;
-[Computer Vision](#computer-vision) &nbsp;·&nbsp;
-[Reinforcement Learning](#reinforcement-learning) &nbsp;·&nbsp;
-[Evolutionary & Metaheuristic Optimization](#evolutionary--metaheuristic-optimization) &nbsp;·&nbsp;
-[Applied & Medical AI](#applied--medical-ai) &nbsp;·&nbsp;
-[Engineering & Tooling](#engineering--tooling) &nbsp;·&nbsp;
-[Technical Writing](#technical-writing)
-
-</div>
+- **[Large Language Models](#large-language-models)**
+  - [Multimodal & Applied LLM](#multimodal--applied-llm)
+  - [Turkish NLP](#turkish-nlp)
+- **[RAG & Agentic Systems](#rag--agentic-systems)**
+  - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
+  - [Agentic Tooling](#agentic-tooling)
+- **[Quantum Machine Learning](#quantum-machine-learning)**
+  - [Language Models on Quantum Hardware](#language-models-on-quantum-hardware)
+  - [Molecular & Materials Discovery](#molecular--materials-discovery)
+- **[Computer Vision](#computer-vision)**
+  - [Real-Time Object Detection](#real-time-object-detection)
+  - [Super-Resolution & Medical Imaging](#super-resolution--medical-imaging)
+- **[Reinforcement Learning](#reinforcement-learning)**
+- **[Evolutionary & Metaheuristic Optimization](#evolutionary--metaheuristic-optimization)**
+  - [Genetic Algorithms](#genetic-algorithms)
+  - [Swarm Intelligence](#swarm-intelligence)
+- **[Applied & Medical AI](#applied--medical-ai)**
+  - [Biomedical Signals](#biomedical-signals)
+  - [Energy Forecasting](#energy-forecasting)
+- **[Engineering & Tooling](#engineering--tooling)**
+- **[Technical Writing](#technical-writing)**
 
 ---
 
 ## Large Language Models
+
+### Multimodal & Applied LLM
 
 <table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/Canik_OzdemirBayraktar_Vision">Vision Assistant</a></b></td>
     <td>AI-powered visual assistant for the visually impaired — multimodal reasoning over live scenes (FastAPI + Gemini)</td>
   </tr>
+</table>
+
+### Turkish NLP
+
+<table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/HeisenMech_TDD_2024">HeisenMech_TDD_2024</a></b></td>
     <td>Turkish natural-language processing hackathon project — #Acıkhack2024TDDİ</td>
@@ -70,6 +85,8 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
 
 ## RAG & Agentic Systems
 
+### Retrieval-Augmented Generation
+
 <table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/Turkish-LLM-RAG">Turkish-LLM-RAG</a></b></td>
@@ -79,6 +96,11 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
     <td><b><a href="https://github.com/RsGoksel/Turkish-RAG">Turkish-RAG</a></b></td>
     <td>Lightweight, open-source retrieval library for Turkish text</td>
   </tr>
+</table>
+
+### Agentic Tooling
+
+<table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/MechCP">MechCP</a></b></td>
     <td>Hardened MCP server giving AI agents real-browser automation — CDP-level control, dynamic Python hooks, AST-sandboxed for safe AI-supplied code</td>
@@ -89,11 +111,18 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
 
 ## Quantum Machine Learning
 
+### Language Models on Quantum Hardware
+
 <table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/quantum-encoding-nlp">quantum-encoding-nlp</a></b></td>
     <td>Systematic comparison of four VQC data-encoding strategies (Angle, Dense Angle, IQP, Data Re-uploading) for NLP sentiment analysis — multi-seed validation on IMDb/SST-2 with IBM Quantum hardware verification</td>
   </tr>
+</table>
+
+### Molecular & Materials Discovery
+
+<table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/quantum-encoding-opv">quantum-encoding-opv</a></b></td>
     <td>Variational quantum inference on IBM ibm_fez (156-qubit Eagle r3) for discovery of hardware- and DFT-validated organic photovoltaic donor candidates — companion to ITU Energy Institute MS preprint</td>
@@ -104,6 +133,8 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
 
 ## Computer Vision
 
+### Real-Time Object Detection
+
 <table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV">Cpp-Object-Detection-Yolov5-OpenCV</a></b></td>
@@ -113,6 +144,11 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
     <td><b><a href="https://github.com/RsGoksel/BUARC-HydroHead">BUARC-HydroHead</a></b></td>
     <td>TEKNOFEST 2026 AUV — NSGA-II multi-objective control optimization and a YOLOv12-based underwater-adaptive detection head with refraction and turbidity compensation</td>
   </tr>
+</table>
+
+### Super-Resolution & Medical Imaging
+
+<table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/G_ESRGAN">G_ESRGAN</a></b></td>
     <td>Enhanced ESRGAN for 4× image & video super resolution with perceptual loss tuning</td>
@@ -150,11 +186,18 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
 
 > Full collection → **[RsGoksel/Genetic-Algorithms](https://github.com/RsGoksel/Genetic-Algorithms)**
 
+### Genetic Algorithms
+
 <table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/Genetic-Algorithms/tree/main/SnakeGame-with-GeneticAlgorithm">SnakeGame-with-GeneticAlgorithm</a></b></td>
     <td>Neural network controller for Snake evolved entirely via genetic algorithm</td>
   </tr>
+</table>
+
+### Swarm Intelligence
+
+<table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/Partical-Swarm-Optimisation-Examples">Partical-Swarm-Optimisation-Examples</a></b></td>
     <td>PSO framework with adaptive parameters and convergence analysis</td>
@@ -165,11 +208,18 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
 
 ## Applied & Medical AI
 
+### Biomedical Signals
+
 <table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/EEG-Alzheimer-Detection">EEG-Alzheimer-Detection</a></b></td>
     <td>Deep learning for Alzheimer's detection from resting-state EEG — 90.77% subject-level LOOCV accuracy on OpenNeuro ds004504</td>
   </tr>
+</table>
+
+### Energy Forecasting
+
+<table>
   <tr>
     <td><b><a href="https://github.com/RsGoksel/refit-energy-forecasting">refit-energy-forecasting</a></b></td>
     <td>Comparative study of ARIMA, LSTM, and FB-Prophet for household energy forecasting on the REFIT dataset</td>
