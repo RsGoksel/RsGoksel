@@ -11,17 +11,24 @@
 <br/>
 
 <div align="center">
-  <a href="https://gokselgunduz.com/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://gokselgunduz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0B1020?style=for-the-badge&logo=googlechrome&logoColor=00C2FF"/>
   </a>
-  <a href="https://www.linkedin.com/in/kadir-goksel-3132b9195/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kadir-goksel-3132b9195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@goksselgunduz">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Kadir-Gunduz-3" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
-  <a href="https://huggingface.co/RsGoksel">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  &nbsp;
+  <a href="https://medium.com/@goksselgunduz" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/RsGoksel" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
 </div>
 
@@ -40,23 +47,31 @@ AI/ML Engineer and AI Team Lead building production ML systems across **large la
 - **[Large Language Models](#large-language-models)**
   - [Multimodal & Applied LLM](#multimodal--applied-llm)
   - [Turkish NLP](#turkish-nlp)
+
 - **[RAG & Agentic Systems](#rag--agentic-systems)**
   - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
   - [Agentic Tooling](#agentic-tooling)
+
 - **[Quantum Machine Learning](#quantum-machine-learning)**
   - [Language Models on Quantum Hardware](#language-models-on-quantum-hardware)
   - [Molecular & Materials Discovery](#molecular--materials-discovery)
+
 - **[Computer Vision](#computer-vision)**
   - [Real-Time Object Detection](#real-time-object-detection)
   - [Super-Resolution & Medical Imaging](#super-resolution--medical-imaging)
+
 - **[Reinforcement Learning](#reinforcement-learning)**
+
 - **[Evolutionary & Metaheuristic Optimization](#evolutionary--metaheuristic-optimization)**
   - [Genetic Algorithms](#genetic-algorithms)
   - [Swarm Intelligence](#swarm-intelligence)
+
 - **[Applied & Medical AI](#applied--medical-ai)**
   - [Biomedical Signals](#biomedical-signals)
   - [Energy Forecasting](#energy-forecasting)
+
 - **[Engineering & Tooling](#engineering--tooling)**
+
 - **[Technical Writing](#technical-writing)**
 
 ---
